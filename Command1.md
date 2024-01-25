@@ -20,3 +20,7 @@ git clone --depth 1 https://github.com/LINOSNCHENA/nuxt3-pinia-v2.git
 ## End
 
 npx nuxi@latest init nuxt3-pinia
+npm i vite-plugin-vuetify
+npm install pinia @pinia/nuxt
+npm i sass
+npm i @mdi/font
